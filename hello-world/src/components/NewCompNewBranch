@@ -1,6 +1,8 @@
 <template>
   <div>
     <p>Новая ветка "ReadMe"</p>
+    <p>Новая ветка1 "master"</p>
+    <p>Новая ветка2 "master"</p>
   </div>
 </template>
 
