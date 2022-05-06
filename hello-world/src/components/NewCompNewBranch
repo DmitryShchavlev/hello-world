@@ -1,0 +1,15 @@
+<template>
+  <div>
+    <p>Новая ветка "ReadMe"</p>
+  </div>
+</template>
+
+<script>
+    import NewCompNewBranch from '@/components/NewCompNewBranch'
+    export default{
+        components: {
+            NewCompNewBranch
+        }
+    }
+
+</script>

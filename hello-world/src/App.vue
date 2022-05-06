@@ -1,15 +1,16 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<div>
+  <NewCompNewBranch/>
+</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import NewCompNewBranch from '@/components/NewCompNewBranch'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    NewCompNewBranch
   }
 }
 </script>
